@@ -1,0 +1,10 @@
+* infix-reader
+
+A reader macro that enables prefix notation in common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/timeolord/infix-reader.git   |
+| commit  | {"messa  |
+| systems | infix-reader |
+|---------+-------------------------------------------|
+
