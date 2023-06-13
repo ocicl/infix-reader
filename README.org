@@ -4,7 +4,7 @@ A reader macro that enables prefix notation in common lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/timeolord/infix-reader.git   |
-| commit  | {"messa  |
+| commit  | 2b93464  |
 | systems | infix-reader |
 |---------+-------------------------------------------|
 
